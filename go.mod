@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/go-sql-driver/mysql v1.6.0
-	github.com/golang-jwt/jwt/v4 v4.4.3
+	github.com/golang-jwt/jwt/v4 v4.5.1
 	github.com/gomodule/redigo v1.9.2
 	github.com/lib/pq v1.10.9
 	github.com/pelletier/go-toml v1.9.5
